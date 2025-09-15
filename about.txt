@@ -1,0 +1,3 @@
+Name:krupa dhaneswari
+course:BCA
+one thing learned about github: it is a repository to store and access files
